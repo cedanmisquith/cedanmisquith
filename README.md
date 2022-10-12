@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cedanmisquith
+- 👋 Hi, I’m Cedan Misquith
 - 👀 I’m interested in working on fun projects and build iOS apps.
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate with anyone who requires help with iOS applications
