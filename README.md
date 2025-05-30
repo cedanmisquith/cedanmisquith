@@ -3,7 +3,7 @@
 - 🌟 I'm very wellversed in Swift with UIKit and SwiftUI.
 - 🌱 I’m currently learning React Native with TypeScript using Expo.
 - 💞️ I’m looking to collaborate with anyone who requires help with Mobile applications.
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/cedanmisquith) or [Instagram](https://www.instagram.com/cedanmisquith)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/cedanmisquith) or [Instagram](https://www.instagram.com/cedanmisquith)
 
 <!---
 cedanmisquith/cedanmisquith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
